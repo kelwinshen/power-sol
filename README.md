@@ -1,4 +1,10 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Meme Coin Website Template (Solana Edition)
+
+This is a Next.js project bootstrapped with create-next-app. It serves as a lightweight template for meme coin projects, especially those supporting community growth and Web3 adoption—straight from the degen culture on Solana.
+
+Use it as a base to launch your own meme coin website. Just swap out the content, logo, and links—ship it and let the memes do the marketing.
+
+🧪 Live Demo: https://powerrhino.fun/
 
 ## Getting Started
 
